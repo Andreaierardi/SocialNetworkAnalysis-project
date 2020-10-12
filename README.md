@@ -1,2 +1,2 @@
-# SocialNetworkAnalysis_project
+# Social Network Analysis project
  
