@@ -1,13 +1,10 @@
 # Social Network Analysis project
  
-•
-https://github.com/gephi/gephi/wiki/Datasets
-
-•
+## Dataset
 http://networkrepository.com/index.php
 
-•
-http://snap.stanford.edu/data/#socnets
+• Other resources for dataset:
+- https://github.com/gephi/gephi/wiki/Datasets
+- http://networkdata.ics.uci.edu/
+- http://snap.stanford.edu/data/#socnets
 
-•
-http://networkdata.ics.uci.edu/
